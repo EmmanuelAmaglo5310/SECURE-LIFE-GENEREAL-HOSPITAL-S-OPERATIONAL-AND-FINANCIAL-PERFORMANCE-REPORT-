@@ -1,4 +1,4 @@
-# SECURE-LIFE-GENEREAL-HOSPITAL-S-OPERATIONAL-AND-FINANCIAL-PERFORMANCE-REPORT-
+# SECURE LIFE GENEREAL HOSPITAL OPERATIONAL AND FINANCIAL PERFORMANCE REPORT
 
 ## INTRODUCTION
 This report represents the operational and financial performance of Secure Life General Hospital, apparently on the leverage of the hospital’s patient admission, billing and insurance dataset.
